@@ -1,0 +1,44 @@
+Feature candidates for 1.4:
+
+    + Modules
+        + Customers module;
+
+    + CSV import tab with fields;
+
+    GitHub enhancement requests:
+        https://github.com/phpipam/phpipam/milestone/2
+
+
+features for next releases:
+---------------------------
+
+    + PowerDNS API;
+
+    + KEA management (DHCP integration);
+
+    + Modules:
+        + BGP support;
+        + Inventory management;
+
+    + User
+    	+ LDAP auth without local user;
+        + IP address owner (from internal users - suggestions);
+        + L2 domain permissions for groups ?
+        + 2FA;
+        + Autocomplete mail addresses and owners from users table;
+
+    + Configurable cron from UI;
+
+    + Tools enhancements
+        + Devices permissions;
+        + custom fields for IP requests;
+        + Changelog for VLANs, l2-domains, devices or vrf's, nameservers and firewallzones;
+
+    + DNS enhancements
+        + Export domain in bind format + script;
+        + DNS scripts (nsupdate,...)
+
+    + Subnet, addresses
+    	+ assign a state to a subnet, vlan;
+
+	+ Map/Link MPLS VRF to VLAN;

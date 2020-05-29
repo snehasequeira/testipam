@@ -1,0 +1,309 @@
+﻿section name,subnet,description
+Americana,172.17.84.0/23,Imported from AD Sites and Services - Sumare
+Americana,172.23.130.0/24,"Imported from AD Sites and Services - Americana, BR"
+Americana,172.23.136.0/24,"Imported from AD Sites and Services - Americana, BR"
+Americana,172.23.168.0/24,"Imported from AD Sites and Services - Americana, BR"
+Americana,172.23.169.0/24,"Imported from AD Sites and Services - Americana, BR"
+Americana,172.23.218.0/24,"Imported from AD Sites and Services - Americana, BR"
+Argenteuil,172.23.182.0/24,Imported from AD Sites and Services - Argenteuil
+Austin,172.31.110.0/24,Imported from AD Sites and Services - LAN - management
+Austin,192.168.116.0/24,Imported from AD Sites and Services - LAN - client
+Austin,192.168.117.0/24,Imported from AD Sites and Services - 
+Austin,192.168.119.0/24,Imported from AD Sites and Services - LAN - client
+Bangalore,172.18.140.0/24,Imported from AD Sites and Services - 
+Bangalore,172.18.141.0/24,Imported from AD Sites and Services - 
+Bangalore,172.18.142.0/24,Imported from AD Sites and Services - 
+Bangalore,172.20.22.0/24,Imported from AD Sites and Services - 
+Bangalore,172.23.138.0/23,Imported from AD Sites and Services - 
+Bangalore,172.23.204.0/23,Imported from AD Sites and Services - 
+Bangalore,172.23.217.0/24,Imported from AD Sites and Services - 
+Bangalore,172.23.219.0/24,Imported from AD Sites and Services - 
+Bangalore,172.23.222.0/23,Imported from AD Sites and Services - 
+Bangalore,172.23.224.0/20,Imported from AD Sites and Services - Bangalore
+Bangalore,172.23.226.0/23,Imported from AD Sites and Services - 
+Bangalore,172.23.240.0/24,Imported from AD Sites and Services - 
+Bangalore,172.23.242.0/23,Imported from AD Sites and Services - 
+Bangalore,172.23.244.0/22,Imported from AD Sites and Services - 
+Bangalore,172.24.96.0/20,Imported from AD Sites and Services - Bangalore
+Bangalore,172.30.160.0/24,Imported from AD Sites and Services - 
+Bangalore,172.31.121.0/24,Imported from AD Sites and Services - 
+Boston,192.168.76.0/24,Imported from AD Sites and Services - LAN
+Budapest,172.23.109.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.111.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.137.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.138.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.139.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.151.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.59.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.60.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Budapest,172.23.61.0/24,"Imported from AD Sites and Services - Budapest, HU"
+Chasseneuil,172.23.120.0/24,Imported from AD Sites and Services - Chasseneuil
+Chasseneuil,172.23.121.0/24,Imported from AD Sites and Services - Chasseneuil
+Chasseneuil,172.23.122.0/24,Imported from AD Sites and Services - Chasseneuil
+Chasseneuil,172.23.146.0/24,Imported from AD Sites and Services - Chasseneuil
+Chasseneuil,172.23.39.0/24,Imported from AD Sites and Services - Chasseneuil
+Chicago,10.140.33.0/25,Imported from AD Sites and Services - SSNI
+Chicago,10.140.33.128/25,Imported from AD Sites and Services - SSNI
+Chicago,10.140.34.0/24,Imported from AD Sites and Services - SSNI
+Chicago,10.140.36.0/26,Imported from AD Sites and Services - SSNI
+Chicago,10.140.36.128/26,Imported from AD Sites and Services - SSNI
+Chicago,10.37.81.0/25,Imported from AD Sites and Services - SSNI
+Cork,172.23.201.0/24,"Imported from AD Sites and Services - Cork, IE"
+Cork,172.23.202.0/24,"Imported from AD Sites and Services - Cork, IE"
+Cork,172.23.203.0/24,"Imported from AD Sites and Services - Cork, IE"
+Davis,192.168.91.0/24,"Imported from AD Sites and Services - Davis, CA"
+Dehradun,172.23.14.64/26,Imported from AD Sites and Services - Dehradun
+Denver,10.201.10.0/24,Imported from AD Sites and Services - DEM
+Denver,10.201.11.0/24,Imported from AD Sites and Services - DEM
+Denver,10.201.8.0/24,Imported from AD Sites and Services - DEM
+Denver,10.201.9.0/24,Imported from AD Sites and Services - DEM
+Denver,172.20.63.0/24,Imported from AD Sites and Services - DEM
+Denver,172.21.216.0/24,Imported from AD Sites and Services - DEM
+Denver,172.21.217.0/24,Imported from AD Sites and Services - DEM
+Denver,172.21.218.0/24,Imported from AD Sites and Services - DEM
+Denver,172.31.128.0/24,Imported from AD Sites and Services - DEM
+Denver,172.31.208.96/27,Imported from AD Sites and Services - DEM
+Dordrecht,172.23.54.0/24,"Imported from AD Sites and Services - Dordrecht, Netherlands"
+Felixstowe,172.23.135.0/24,Imported from AD Sites and Services - Felixstowe
+Felixstowe,172.23.154.0/24,Imported from AD Sites and Services - Felixstowe
+France-Datacenter,172.23.101.0/24,"Imported from AD Sites and Services - Vienna, AT"
+France-Datacenter,172.23.104.0/26,"Imported from AD Sites and Services - Geneva, CH"
+France-Datacenter,172.23.127.0/24,"Imported from AD Sites and Services - Chaveneau, France"
+France-Datacenter,172.23.14.192/26,Imported from AD Sites and Services - Al Khobar
+France-Datacenter,172.23.2.0/23,Imported from AD Sites and Services - VPN
+France-Datacenter,172.23.3.0/24,Imported from AD Sites and Services - VPN
+France-Datacenter,172.29.128.0/20,Imported from AD Sites and Services - Azure
+Genas,172.23.176.0/22,"Imported from AD Sites and Services - Genas, FR"
+Guadalajara,172.23.26.0/26,"Imported from AD Sites and Services - Guadalajara, MX"
+Haguenau,172.23.189.0/24,Imported from AD Sites and Services - 
+Haguenau,172.23.252.0/24,Imported from AD Sites and Services - 
+Issy,172.17.96.0/24,Imported from AD Sites and Services - LAN - 172.17.96.x - 172.17.99.x
+Issy,172.23.160.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.161.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.162.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.163.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.164.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.165.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.166.0/24,Imported from AD Sites and Services - Issy
+Issy,172.23.167.0/24,Imported from AD Sites and Services - Issy
+Jackson,172.24.10.0/24,Imported from AD Sites and Services - Jackson HQ Voice
+Jackson,172.24.11.0/24,Imported from AD Sites and Services - Jackson HQ Wireless
+Jackson,172.24.12.0/24,Imported from AD Sites and Services - Jackson HQ DMZ
+Jackson,172.24.13.0/24,Imported from AD Sites and Services - Jackson HQ Guest Wireless
+Jackson,172.24.14.0/24,Imported from AD Sites and Services - Jackson HQ - spare
+Jackson,172.24.15.0/24,Imported from AD Sites and Services - Jackson HQ - spare
+Jackson,172.24.16.0/22,Imported from AD Sites and Services - Lakeland
+Jackson,172.24.20.0/24,Imported from AD Sites and Services - Jackson - spare
+Jackson,172.24.21.0/24,Imported from AD Sites and Services - Jackson - spare
+Jackson,172.24.22.0/24,Imported from AD Sites and Services - Jackson - spare
+Jackson,172.24.23.0/24,Imported from AD Sites and Services - Jackson - spare
+Jackson,172.24.24.0/24,Imported from AD Sites and Services - Jackson - spare
+Jackson,172.24.8.0/23,Imported from AD Sites and Services - Jackson HQ
+Karlsruhe,172.23.144.0/24,Imported from AD Sites and Services - 
+Karlsruhe,172.23.180.0/24,Imported from AD Sites and Services - Karlsruhe
+Karlsruhe,172.23.66.0/24,Imported from AD Sites and Services - Karlsruhe
+Karlsruhe,172.23.74.0/23,Imported from AD Sites and Services - Kassel
+Kiev,172.23.100.0/24,Imported from AD Sites and Services - Kiev
+Kuala Lumpur,172.23.11.0/24,Imported from AD Sites and Services - Kuala Lumpur
+Macon,172.23.116.0/23,Imported from AD Sites and Services - 
+Macon,172.23.46.0/23,"Imported from AD Sites and Services - Macon, FR"
+Manchester,172.23.82.0/23,"Imported from AD Sites and Services - Manchester, UK"
+Massy,172.23.156.0/24,"Imported from AD Sites and Services - Massy, FR"
+Massy,172.23.158.0/24,"Imported from AD Sites and Services - Massy, FR"
+Massy,172.23.159.0/24,"Imported from AD Sites and Services - Massy, FR"
+Massy,172.23.56.0/24,Imported from AD Sites and Services - 
+Melbourne,10.140.1.0/24,Imported from AD Sites and Services - SSNI
+Melbourne,10.140.113.0/24,Imported from AD Sites and Services - SSNI
+Melbourne,10.140.114.0/24,Imported from AD Sites and Services - SSNI
+Melbourne,10.140.116.0/24,Imported from AD Sites and Services - SSNI
+Melbourne,10.140.128.0/24,Imported from AD Sites and Services - 
+Melbourne,192.168.90.160/27,Imported from AD Sites and Services - Melbourne
+Mexico,172.17.88.0/24,Imported from AD Sites and Services - LAN - 172.17.88.x - 172.17.91.x
+Milford,192.168.90.0/27,"Imported from AD Sites and Services - Milford, CT, US"
+New Delhi,172.23.13.0/26,Imported from AD Sites and Services - New Delhi
+New-Jersey,10.201.4.0/24,Imported from AD Sites and Services - DEM
+New-Jersey,10.201.5.0/24,Imported from AD Sites and Services - DEM
+New-Jersey,10.201.6.0/24,Imported from AD Sites and Services - DEM
+New-Jersey,10.201.7.0/24,Imported from AD Sites and Services - DEM
+New-Jersey,172.31.127.0/24,Imported from AD Sites and Services - DEM
+New-Jersey,172.31.208.64/27,Imported from AD Sites and Services - DEM
+Noisy,172.23.28.0/24,Imported from AD Sites and Services - Noisy le Grand
+Noisy,172.23.31.0/24,Imported from AD Sites and Services - Noisy le Grand
+Norcross,10.100.14.0/24,Imported from AD Sites and Services - LAN - Norcross Infrastructure
+Oakland,192.168.218.0/24,Imported from AD Sites and Services - IP Phones
+Oakland,192.168.72.0/24,Imported from AD Sites and Services - LAN
+Oconee,10.137.0.0/16,Imported from AD Sites and Services - 
+Oconee,172.17.10.0/24,Imported from AD Sites and Services - Oconee Voice 1
+Oconee,172.17.100.0/22,Imported from AD Sites and Services - LAN - 172.17.100.x - 172.17.103.x
+Oconee,172.17.104.0/22,Imported from AD Sites and Services - LAN - 172.17.104.x - 172.17.107.x
+Oconee,172.17.11.0/24,Imported from AD Sites and Services - Oconee Voice 2
+Oconee,172.17.12.0/22,Imported from AD Sites and Services - Oconee Wireless
+Oconee,172.17.2.0/24,Imported from AD Sites and Services - Oconee Wireless
+Oconee,172.17.20.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.200.0/23,Imported from AD Sites and Services - LAN - Oconee Closet A (Transformers)
+Oconee,172.17.202.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.204.0/23,Imported from AD Sites and Services - LAN - Oconee Closet B (ACCT)
+Oconee,172.17.206.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.210.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.214.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.216.0/23,Imported from AD Sites and Services - LAN - Oconee Closet E (Electronics)
+Oconee,172.17.218.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.220.0/23,Imported from AD Sites and Services - LAN - Oconee Closet F (C&I)
+Oconee,172.17.222.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.224.0/23,Imported from AD Sites and Services - LAN - Oconee Closet G (Shipping)
+Oconee,172.17.226.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.228.0/23,Imported from AD Sites and Services - LAN - Oconee Closet H (Purchasing)
+Oconee,172.17.230.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.232.0/23,Imported from AD Sites and Services - LAN - Oconee Closet J (IT)
+Oconee,172.17.234.0/23,Imported from AD Sites and Services - 
+Oconee,172.17.32.0/19,Imported from AD Sites and Services - LAN - 172.17.32.x - 172.17.63.x
+Oconee,172.17.40.0/24,Imported from AD Sites and Services - LAN - 172.17.40.x - 172.17.43.x
+Oconee,172.17.41.0/24,Imported from AD Sites and Services - 
+Oconee,172.17.5.0/24,Imported from AD Sites and Services - VPN
+Oconee,172.17.64.0/22,Imported from AD Sites and Services - LAN - 172.17.64.x - 172.17.67.x
+Oconee,172.17.78.0/23,Imported from AD Sites and Services - 
+Oldenburg,172.23.58.0/24,Imported from AD Sites and Services - Oldenburg Wireless
+Oporto,172.23.98.0/24,"Imported from AD Sites and Services - Oporto, PT"
+Oporto,172.23.99.0/24,Imported from AD Sites and Services - 
+Owenton,172.23.16.0/23,Imported from AD Sites and Services - LAN - Owenton
+Owenton,172.23.18.0/24,Imported from AD Sites and Services - 
+Owenton,172.23.19.0/24,Imported from AD Sites and Services - 
+Owenton,172.23.216.0/24,Imported from AD Sites and Services - Owenton Phones
+Philadelphia,192.168.60.0/24,Imported from AD Sites and Services - LAN
+Raleigh,10.144.0.0/12,Imported from AD Sites and Services - 
+Raleigh,172.21.0.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.10.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.12.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.14.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.2.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.22.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.32.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.34.0/24,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.35.0/24,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.4.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.6.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.21.8.0/23,Imported from AD Sites and Services - Raleigh
+Raleigh,172.29.0.0/20,Imported from AD Sites and Services - Azure
+Raleigh,172.29.64.0/20,Imported from AD Sites and Services - Azure
+Raleigh,192.168.143.0/24,Imported from AD Sites and Services - Raleigh
+Raleigh,192.168.145.0/24,Imported from AD Sites and Services - LAN
+Raleigh,192.168.151.0/24,Imported from AD Sites and Services - Management
+Raleigh,192.168.168.0/23,Imported from AD Sites and Services - VPN
+Raleigh,192.168.178.0/24,Imported from AD Sites and Services - LAN
+Raleigh,192.168.180.0/24,Imported from AD Sites and Services - Raleigh
+Raleigh,192.168.187.0/24,Imported from AD Sites and Services - VMS - servers
+Raleigh,192.168.216.0/24,Imported from AD Sites and Services - IP Phones
+Raleigh,192.168.217.0/24,Imported from AD Sites and Services - IP Phones
+Regina,172.17.80.0/24,Imported from AD Sites and Services - LAN - 172.17.80.x - 172.17.83.x
+Reims,172.23.183.0/24,Imported from AD Sites and Services - Reims
+Reims,172.23.45.0/24,Imported from AD Sites and Services - Reims
+San Diego,192.168.234.0/24,Imported from AD Sites and Services - IP Phones
+San-Antonio,10.140.73.0/25,Imported from AD Sites and Services - SSNI
+San-Antonio,10.140.73.128/25,Imported from AD Sites and Services - SSNI
+San-Antonio,10.140.74.0/24,Imported from AD Sites and Services - SSNI
+San-Antonio,10.140.75.0/26,Imported from AD Sites and Services - SSNI
+San-Antonio,10.140.75.128/25,Imported from AD Sites and Services - SSNI
+San-Antonio,10.140.75.64/27,Imported from AD Sites and Services - SSNI
+San-Diego,192.168.84.0/24,Imported from AD Sites and Services - Wireless
+San-Diego,10.132.0.0/16,Imported from AD Sites and Services - SSNI
+San-Diego,10.29.0.0/16,Imported from AD Sites and Services - SSNI
+San-Diego,10.140.89.0/25,Imported from AD Sites and Services - SSNI
+San-Diego,10.140.89.128/25,Imported from AD Sites and Services - SSNI
+San-Diego,10.140.90.0/24,Imported from AD Sites and Services - SSNI
+San-Diego,10.140.91.32/27,Imported from AD Sites and Services - SSNI
+San-Jose,10.140.129.0/24,Imported from AD Sites and Services - SSNI
+San-Jose,10.200.0.0/22,Imported from AD Sites and Services - SSNI
+San-Jose,10.209.224.0/23,Imported from AD Sites and Services - SSNI
+San-Jose,10.210.0.0/16,Imported from AD Sites and Services - SSNI
+San-Jose,10.230.0.0/16,Imported from AD Sites and Services - SSNI
+San-Jose,10.55.0.0/16,Imported from AD Sites and Services - SSNI
+San-Jose,10.57.0.0/16,Imported from AD Sites and Services - SSNI
+Santiago,172.23.23.0/24,Imported from AD Sites and Services - Santiago
+Sao-Paulo,10.140.16.0/24,Imported from AD Sites and Services - SSNI
+Sao-Paulo,10.140.23.0/24,Imported from AD Sites and Services - SSNI
+Singapore,172.23.13.64/26,Imported from AD Sites and Services - Singapore
+Singapore,172.23.221.0/24,Imported from AD Sites and Services - Singapore
+Singapore,10.140.132.0/24,Imported from AD Sites and Services - SSNI
+Singapore,10.140.133.0/24,Imported from AD Sites and Services - SSNI
+Singapore,10.140.134.128/25,Imported from AD Sites and Services - SSNI
+Spokane,10.160.0.0/12,Imported from AD Sites and Services - Azure
+Spokane,192.168.101.0/24,Imported from AD Sites and Services - LAN - Switch Management addresses
+Spokane,192.168.105.0/24,Imported from AD Sites and Services - LAN - Device management subnet
+Spokane,192.168.11.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.12.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.14.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.156.0/24,Imported from AD Sites and Services - VPN
+Spokane,192.168.16.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.162.0/24,Imported from AD Sites and Services - VPN
+Spokane,192.168.163.0/24,Imported from AD Sites and Services - VPN
+Spokane,192.168.17.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.18.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.199.0/24,Imported from AD Sites and Services - LAN - UPS Monitoring/Management
+Spokane,192.168.201.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.202.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.203.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.204.0/24,Imported from AD Sites and Services - IP phones
+Spokane,192.168.205.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.206.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.207.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.208.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.209.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.21.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.22.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.223.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.224.0/24,Imported from AD Sites and Services - IP Phones
+Spokane,192.168.225.0/24,Imported from AD Sites and Services - Amsterdam Phones
+Spokane,192.168.23.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.24.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.25.0/24,Imported from AD Sites and Services - Wireless
+Spokane,192.168.27.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.28.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.34.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.35.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.38.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.4.0/24,Imported from AD Sites and Services - LAN - vm
+Spokane,192.168.40.0/24,"Imported from AD Sites and Services - IST Lab, Spokane, WA"
+Spokane,192.168.41.0/24,Imported from AD Sites and Services - Spokane (lab)
+Spokane,192.168.42.0/24,Imported from AD Sites and Services - Spokane (lab)
+Spokane,192.168.43.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.44.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.57.0/24,Imported from AD Sites and Services - FCS Lab
+Spokane,192.168.58.0/24,Imported from AD Sites and Services - Spokane (lab)
+Spokane,192.168.6.0/24,Imported from AD Sites and Services - LAN - Printers
+Spokane,192.168.7.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.8.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.80.0/26,Imported from AD Sites and Services - SCE outsouce (Santa Fe Springs)
+Spokane,192.168.90.112/28,Imported from AD Sites and Services - Remote ASA VPN
+Spokane,192.168.90.128/28,Imported from AD Sites and Services - Remote ASA VPN
+Spokane,192.168.90.96/28,Imported from AD Sites and Services - Remote ASA VPN
+Spokane,192.168.97.0/24,Imported from AD Sites and Services - LAN
+Spokane,192.168.99.0/24,Imported from AD Sites and Services - LAN - routers/switches
+Sumare,172.23.170.0/24,Imported from AD Sites and Services - 
+Sumare,172.23.171.0/24,Imported from AD Sites and Services - Sumare Wireless
+Sumare,172.23.20.0/23,Imported from AD Sites and Services - Sumare
+Suzhou,172.23.142.0/24,"Imported from AD Sites and Services - Suzhou, CN"
+Sydney,192.168.160.0/24,Imported from AD Sites and Services - Aus VPN Pool
+Taipei,172.17.92.0/24,Imported from AD Sites and Services - LAN - 172.17.92.x - 172.17.95.x
+Taipei,172.17.93.0/24,Imported from AD Sites and Services - 
+Taipei,172.17.94.0/24,Imported from AD Sites and Services - 
+Taipei,172.17.95.0/24,Imported from AD Sites and Services - 
+Vancouver,192.168.75.0/24,Imported from AD Sites and Services - LAN
+Waseca,10.143.0.0/16,Imported from AD Sites and Services - 
+Waseca,172.20.53.0/24,Imported from AD Sites and Services - Guest WIFI
+Waseca,172.21.128.0/23,Imported from AD Sites and Services - USERDATA_1
+Waseca,172.21.130.0/23,Imported from AD Sites and Services - USERDATA_2
+Waseca,172.21.132.0/23,Imported from AD Sites and Services - MFGDATA_1
+Waseca,172.21.134.0/23,Imported from AD Sites and Services - R&DDATA_1
+Waseca,172.21.136.0/24,Imported from AD Sites and Services - WIRED-VOIP_1
+Waseca,172.21.137.0/24,Imported from AD Sites and Services - WIRED-VOIP_2
+Waseca,172.21.138.0/24,Imported from AD Sites and Services - WIRED-VOIP_3
+Waseca,172.21.139.0/24,Imported from AD Sites and Services - WIRED-VOIP_4
+Waseca,172.21.140.0/24,Imported from AD Sites and Services - WiFi
+Waseca,172.21.146.0/24,Imported from AD Sites and Services - PHYS_SRVRS
+Waseca,192.168.10.0/24,Imported from AD Sites and Services - LAN
+Waseca,192.168.211.0/24,Imported from AD Sites and Services - IP Phones
+Waseca,192.168.212.0/24,Imported from AD Sites and Services - IP Phones
+Waseca,192.168.213.0/24,Imported from AD Sites and Services - IP Phones
+Waseca,192.168.214.0/24,Imported from AD Sites and Services - IP Phones
+Waseca,192.168.32.0/24,Imported from AD Sites and Services - Waseca
+Waseca,192.168.74.0/24,Imported from AD Sites and Services - LAN
